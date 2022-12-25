@@ -45,6 +45,7 @@ public class JavaVersionHW6 {
         System.out.println("Сумма символов во всех номерах - " + check);
         System.out.println(MapSortUtil.sortMapByKey(listNumbersAndNames));
         System.out.println(MapSortUtil.sortMapByValue(listNumbersAndNames));
+
     }
 
     public class MapSortUtil {
